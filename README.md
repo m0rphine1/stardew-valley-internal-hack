@@ -14,4 +14,7 @@ and created a codecave for getting money address in asm.
 
 finally, i wrote a simple algorithm in cpp for get and set money.
 
+# references
+x64 hooking tutorial:
+https://kylehalladay.com/blog/2020/11/13/Hooking-By-Example.html 
 
